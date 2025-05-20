@@ -1,5 +1,6 @@
 🦙 LLaMA.cpp API & UI
 本專案是基於 llama.cpp 打包的本地 LLM API + UI，可讓他人無需設定本地環境即可使用你的模型。
+實際上使用mistral-7b而非llama2-7b。
 
 🔧 安裝步驟
 請依照以下步驟完成環境安裝與啟動：
