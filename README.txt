@@ -22,6 +22,8 @@ python main.py
 ├── environment.yml        # Conda 環境依賴
 ├── requirements.txt       # Pip 套件依賴
 ├── ...
+*faiss_index, mistral-7b-instruct-v0.2.Q4_K_M.gguf檔案過大，未上傳，請用googledrive下載
+
 🚀 功能簡介（建議補充）
 本地推論（LLaMA 模型）
 
